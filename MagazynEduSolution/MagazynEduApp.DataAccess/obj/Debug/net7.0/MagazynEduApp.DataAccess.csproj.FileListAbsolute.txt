@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\bin\Debug\net7.0\MagazynEduApp.DataAccess.deps.json
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\bin\Debug\net7.0\MagazynEduApp.DataAccess.runtimeconfig.json
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\bin\Debug\net7.0\MagazynEduApp.DataAccess.dll
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\bin\Debug\net7.0\MagazynEduApp.DataAccess.pdb
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\MagazynEduApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\MagazynEduApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\MagazynEduApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\MagazynEduApp.DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\MagazynEduApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\MagazynEduApp.DataAccess.dll
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\refint\MagazynEduApp.DataAccess.dll
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\MagazynEduApp.DataAccess.pdb
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\MagazynEduApp.DataAccess.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.DataAccess\obj\Debug\net7.0\ref\MagazynEduApp.DataAccess.dll

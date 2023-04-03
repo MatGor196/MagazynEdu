@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\bin\Debug\net7.0\MagazynEduApp.ApplicationServices.deps.json
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\bin\Debug\net7.0\MagazynEduApp.ApplicationServices.dll
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\bin\Debug\net7.0\MagazynEduApp.ApplicationServices.pdb
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\bin\Debug\net7.0\MagazynEduApp.DataAccess.dll
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\bin\Debug\net7.0\MagazynEduApp.DataAccess.pdb
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\MagazynEduApp.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\MagazynEduApp.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\MagazynEduApp.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\MagazynEduApp.ApplicationServices.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\MagazynEduApp.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\MagazynEduApp.ApplicationServices.csproj.CopyComplete
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\MagazynEduApp.ApplicationServices.dll
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\refint\MagazynEduApp.ApplicationServices.dll
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\MagazynEduApp.ApplicationServices.pdb
+C:\Users\user\Desktop\GitHub\MagazynEdu\MagazynEduSolution\MagazynEduApp.ApplicationServices\obj\Debug\net7.0\ref\MagazynEduApp.ApplicationServices.dll
