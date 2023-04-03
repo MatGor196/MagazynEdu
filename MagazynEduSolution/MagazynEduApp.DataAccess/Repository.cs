@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace MagazynEduApp.DataAccess
 {
-    public class Repository<T> : IRepository<T> where T : EntityBase
+    public class Repository<T> : IRepository<T>
+        where T : EntityBase
     {
         protected readonly WarehouseStorageContext context;
         private DbSet<T> entities;
@@ -27,6 +28,13 @@ namespace MagazynEduApp.DataAccess
         public T GetById(int id)
         {
             return entities.SingleOrDefault(s => s.Id == id);
+        }
+
+        public void Delete(int id)
+        {
+            T entity = entities.SingleOrDefault(s => s.Id == id);
+            entities.Remove(entity);
+            context.SaveChanges();
         }
 
         public void Insert(T entity)
@@ -48,13 +56,6 @@ namespace MagazynEduApp.DataAccess
             }
 
             entities.Update(entity);
-            context.SaveChanges();
-        }
-
-        public void Delete(int id)
-        {
-            T entity = entities.SingleOrDefault(s => s.Id == id);
-            entities.Remove(entity);
             context.SaveChanges();
         }
     }
