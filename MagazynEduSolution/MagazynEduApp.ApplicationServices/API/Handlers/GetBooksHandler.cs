@@ -1,6 +1,6 @@
 ﻿using MagazynEduApp.ApplicationServices.API.Domain;
-using MediatR;
 using MagazynEduApp.DataAccess;
+using MediatR;
 
 namespace MagazynEduApp.ApplicationServices.API.Handlers
 {
