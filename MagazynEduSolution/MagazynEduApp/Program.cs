@@ -2,6 +2,7 @@ using MagazynEduApp.DataAccess;
 using Microsoft.EntityFrameworkCore;
 using MediatR;
 using System.Reflection;
+using MagazynEduApp.ApplicationServices.API.Domain;
 
 var builder = WebApplication.CreateBuilder(args);
 
